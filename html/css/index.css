@@ -420,23 +420,23 @@ button {
   transform: translateY(60px) scale(0.92);
 }
 #first-card {
-  background-image: url(file:///Users/macbookpro/Desktop/neon-ink/html/images/card1.jpg);
+  background-image: url(../images/card1.jpg);
 
   background-repeat: no-repeat;
   background-size: cover;
 }
 #second-card {
-  background-image: url(file:///Users/macbookpro/Desktop/neon-ink/html/images/card2.jpg);
+  background-image: url(../images/card2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 #third-card {
-  background-image: url(file:///Users/macbookpro/Desktop/neon-ink/html/images/%20-67%20copy.jpg);
+  background-image: url(../images/%20-67%20copy.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 #fourth-card {
-  background-image: url(file:///Users/macbookpro/Desktop/neon-ink/html/images/cedar&stone2.jpg);
+  background-image: url(../images/cedar&stone2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
