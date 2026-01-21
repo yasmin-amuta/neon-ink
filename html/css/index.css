@@ -420,23 +420,23 @@ button {
   transform: translateY(60px) scale(0.92);
 }
 #first-card {
-  background-image: url(file:///Users/macbookpro/Desktop/NEONINK/html/images/High%20End,%20Sophisticated,%20Calming%20Brand%20Photography%20for%20Toskaia%20%7C%20The%20May%20Studio_.jpg);
+  background-image: url(file:///Users/macbookpro/Desktop/neon-ink/html/images/High%20End,%20Sophisticated,%20Calming%20Brand%20Photography%20for%20Toskaia%20%7C%20The%20May%20Studio_.jpg);
 
   background-repeat: no-repeat;
   background-size: cover;
 }
 #second-card {
-  background-image: url(file:///Users/macbookpro/Desktop/NEONINK/html/images/Flat%20Lay%20Product%20Photography.jpg);
+  background-image: url(file:///Users/macbookpro/Desktop/neon-ink/html/images/Flat%20Lay%20Product%20Photography.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 #third-card {
-  background-image: url(file:///Users/macbookpro/Desktop/NEONINK/html/images/%20-67%20copy.jpg);
+  background-image: url(file:///Users/macbookpro/Desktop/neon-ink/html/images/%20-67%20copy.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 #fourth-card {
-  background-image: url(/Users/macbookpro/Desktop/NEONINK/html/images/cedar&stone2.jpg);
+  background-image: url(file:///Users/macbookpro/Desktop/neon-ink/html/images/cedar&stone2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }

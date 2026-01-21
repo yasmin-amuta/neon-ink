@@ -92,7 +92,10 @@ button {
   border-radius: 50%;
   pointer-events: none;
   transform: translate(-50%, -50%);
-  transition: transform 0.15s ease-out, width 0.25s ease, height 0.25s ease,
+  transition:
+    transform 0.15s ease-out,
+    width 0.25s ease,
+    height 0.25s ease,
     background 0.25s ease;
   z-index: 9999;
   mix-blend-mode: normal; /* makes it visible on both light/dark backgrounds */
@@ -270,7 +273,9 @@ ul.breadcrumb li + li:before {
   justify-content: center;
   margin-top: 1rem;
   transform: translateY(0.1em); /* fine-tune vertical alignment */
-  transition: transform 0.6s ease, filter 0.6s ease;
+  transition:
+    transform 0.6s ease,
+    filter 0.6s ease;
   cursor: pointer;
 }
 
@@ -350,7 +355,9 @@ ul.breadcrumb li a {
   height: 1.4em; /* matches text height dynamically */
   aspect-ratio: 4 / 1; /* controls width proportion */
   transform: translateY(0.1em); /* fine-tune vertical alignment */
-  transition: transform 0.6s ease, filter 0.6s ease;
+  transition:
+    transform 0.6s ease,
+    filter 0.6s ease;
   cursor: pointer;
 }
 
@@ -388,7 +395,7 @@ ul.breadcrumb li a {
   border-radius: 30px;
   width: 20vw;
   text-align: left;
-  background-image: url(file:///Users/macbookpro/Desktop/NEONINK/html/images/IMG_1687.JPG);
+  background-image: url(file:///Users/macbookpro/Desktop/neon-ink/html/images/IMG_1687.JPG);
 }
 .display .d-post p {
   font-size: var(--fontsize-16);
@@ -676,7 +683,9 @@ form {
   /* ===== Inline Image Container ===== */
   .about-wrap {
     height: 1.5em; /* matches text height dynamically */
-    transition: transform 0.6s ease, filter 0.6s ease;
+    transition:
+      transform 0.6s ease,
+      filter 0.6s ease;
     cursor: pointer;
   }
   /* DISPLAY STYLE */
