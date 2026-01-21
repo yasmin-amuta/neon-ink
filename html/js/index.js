@@ -79,14 +79,14 @@ document.addEventListener("DOMContentLoaded", (event) => {
           stagger: 0.12,
           ease: "back.out(1.7)",
         },
-        "-=0.6"
+        "-=0.6",
       )
 
       .fromTo(
         ".navbar",
         { opacity: 0, y: -20 },
         { opacity: 1, y: 0, duration: 0.8 },
-        "-=1"
+        "-=1",
       )
 
       .from(".links", { opacity: 0, duration: 0.8 }, "<");
@@ -111,7 +111,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
             start: "top 50%",
             toggleActions: "play none none reverse",
           },
-        }
+        },
       );
     });
 
