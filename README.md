@@ -22,4 +22,4 @@ The site showcases the agency’s philosophy, services, and work through a highl
 
 ## Live Demo
 
-[Link here]
+https://yasmin-amuta.github.io/neon-ink/
