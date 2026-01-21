@@ -1,0 +1,34 @@
+
+/* MEDIA QUERIES */
+
+    /* MOBILE SCREEN */
+    @media only screen and (max-width: 425px){
+        .wrapper-main{ 
+            width: 80%;
+        }
+        nav{
+            position: fixed;
+            top: 0;
+            width: 100%;
+            display: flex;
+            justify-content: left;
+            padding: 15px;
+            gap: 5rem;
+            background-color: #000000;
+        }
+
+        .logo{
+            display: flex;
+            color: white;
+            display: inline-flex;
+        }
+
+        nav .nav-links{
+            display: none;
+        }
+
+        .call-to-action-button{
+            display: none;
+        }
+    
+    }
